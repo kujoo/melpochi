@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Yahoo Shopping Search</title>
+<script type="text/javascript">
+[% INCLUDE js.tt %]
+</script>
+</head>
+
+<body>
+
+<h1>Yahoo Shoppoing Search</h1>
+
+<form method="get" action="xxx" onsubmit="disableSubmit(this)">
+ <input type="text" name="q">
+ <input type="submit" value="search">
+</form>
+
+[% INCLUDE 'footer.tt' %]
+
+</body>
+</html>
+

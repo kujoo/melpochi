@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Your ID is ?</title>
+</head>
+<body>
+<h1>Your ID is ?</h1>
+[% INCLUDE 'footer.tt' %]
+</body>
+</html>
